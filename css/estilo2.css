@@ -1,0 +1,21 @@
+body {
+	text-align: center;
+	margin-left: 300px;
+		margin-right: 300px;
+	}
+
+#header {
+	font-family: "Arial", Georgia, Serif;
+	padding: 3;
+	color: blue;
+}
+
+#nav {
+	border-style: solid;
+	border-color: blue;
+}
+
+#footer {
+	background-color: ;
+	text-align: center;
+}
